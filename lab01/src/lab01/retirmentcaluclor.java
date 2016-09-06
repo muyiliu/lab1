@@ -1,7 +1,7 @@
 package lab01;
 
 import java.util.Scanner;
-
+//Muyi Liu, Bryan Leach, ruoyang wang
 public class retirmentcaluclor {
 
 	public static void main(String[] args) {
